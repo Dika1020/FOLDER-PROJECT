@@ -15,7 +15,7 @@ if (isset($_POST['email'])) {
         $_SESSION['nama'] = $row['nama'];
         echo "<script>window.location.href='index.php'</script>";
     } else {
-        echo "<script>alert('ada yang salah sepertinya');window.location.href='login.php'</script>";
+        echo "<script>alert('ada yang salah sepertinya');window.location.href='login.html'</script>";
     }
 }
 
