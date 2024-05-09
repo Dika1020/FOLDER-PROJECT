@@ -19,4 +19,5 @@ if (isset($_POST['email'])) {
     }
 }
 
-//SAYA UDH COBA PAK/BNG UDH MASUKIN GMAIL SAMA PW SUDAH SESUAI KENAPA TETAP SALAH YA
+//gmail : dika123@gmail.com pw : akurajin123
+  
